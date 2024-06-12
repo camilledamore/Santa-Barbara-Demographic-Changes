@@ -1,7 +1,7 @@
  # Demographic Changes in Santa Barbara County
 
 
-Examining the changes in ethnic composition in Santa Barbara County compared to 29 other California counties.
+Examining the changes in hispanic ethnic composition in Santa Barbara County compared to 29 other California counties.
 Understanding these trends can inform policies and initiatives aimed at addressing the evolving needs of Santa Barbara’s diverse population.
 
 
