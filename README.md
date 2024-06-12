@@ -33,7 +33,7 @@ The data is summarized by tables 1 & 2, where the prercentage breakdown of the l
 #### Figure 2
 
 
-## Comparing Averages: Santa Barbara County to all 30 California Counties
+## Comparing Averages: Santa Barbara County to California
 
 Santa Barbara County’s ethnic composition differs slightly from the aggregate proportion of all 30 counties, with a higher proportion of hispanics all together, and a higher proportion of people who identify as Mexican. Within Santa Barbara County, the Non-Hispanic population has remained mostly constant. The proportion of Mexican individuals has decreased and the proportion of other hispanic individuals has increased by roughly the same amount.
 
